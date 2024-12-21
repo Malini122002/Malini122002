@@ -6,12 +6,40 @@
 - 🌱 I’m currently pursuing a **Bachelor of Technology in Information Technology**  
 - 💞️ I’m looking to collaborate on **data-driven projects and analytics tools**  
 - 📫 How to reach me:  
-
   - [LinkedIn](https://www.linkedin.com/in/malini-munusamy-09857b222/)  
   - [Email](malinimpc2021@gmail.com)  
--
 
-<!---
-Malini122002/Malini122002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ My Projects
+
+### 1. **Diabetes Prediction Analysis**
+   - **Description**: A machine learning project to predict diabetes based on patient data.  
+   - **Technologies**: NumPy, pandas, seaborn, matplotlib  
+   - **Internship Context**: Completed as part of a 15-day internship in Artificial Intelligence and Data Science.  
+   - **Link**: [GitHub Repository](C:\Users\Admin\Downloads\intern project)  
+
+### 2. **CGPA Calculator**
+   - **Description**: A web application to calculate CGPA with an intuitive user interface.  
+   - **Technologies**: HTML, CSS, JavaScript   
+
+### 3. **E-commerce Product Page**
+   - **Description**: A product-buying and selling platform with cart functionality and cost summary.  
+   - **Technologies**: HTML, CSS, JavaScript  
+
+### 4. **Kinetic Obstacle-Avoiding Robot Car**
+   - **Description**: A Bluetooth-controlled, voice-enabled robot car powered by kinetic energy with obstacle avoidance.  
+   - **Technologies**: Arduino, Bluetooth module, Sensors
+     
+---
+
+## 📘 Completed Courses
+- **Certified Power BI Course**  
+  - Duration: 5 days  
+  - Skills Acquired: Data visualization, dashboard creation, data modeling  
+
+- **Certified Tableau Course**  
+  - Duration: 5 days  
+  - Skills Acquired: Interactive visualizations, storytelling with data, advanced charting  
+
+-----
