@@ -16,8 +16,7 @@
 ### 1. **Diabetes Prediction Analysis**
    - **Description**: A machine learning project to predict diabetes based on patient data.  
    - **Technologies**: NumPy, pandas, seaborn, matplotlib  
-   - **Internship Context**: Completed as part of a 15-day internship in Artificial Intelligence and Data Science.  
-   - **Link**: [GitHub Repository](C:\Users\Admin\Downloads\intern project)  
+   - **Internship Context**: Completed as part of a 15-day internship in Artificial Intelligence and Data Science.    
 
 ### 2. **CGPA Calculator**
    - **Description**: A web application to calculate CGPA with an intuitive user interface.  
