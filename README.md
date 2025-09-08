@@ -1,6 +1,6 @@
 # 👋 Hi, I’m M Malini
 
--  I’m interested in **Data Analytics**  
+-  I’m interested in **Data Analytics and Full stack**  
 -  I have **10 months of work experience** at Hine Hydraulic India Private Limited (2021–2022)  
    and **1 year of experience** at Delphi-TVS Technologies Limited (2022–2023).  
 -  I’m currently pursuing a **Bachelor of Technology in Information Technology**  
